@@ -1,2 +1,5 @@
-# MyAlfred
-All of my Alfred configuration settings
+# 🌟 MyAlfred
+
+All of my Alfred personalizations
+
+> Check release for details
